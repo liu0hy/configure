@@ -1,0 +1,10 @@
+BoldAsFont=no
+BackgroundColour=199,237,204
+CursorColour=255,128,128
+Transparency=medium
+Font=YaHei Consolas Hybrid
+FontHeight=12
+FontSmoothing=full
+RightClickAction=paste
+CursorType=block
+ForegroundColour=0,0,255
