@@ -1,0 +1,9 @@
+[user]
+	email = liu0hy
+[alias]
+	ci = commit
+	st = status
+	co = checkout
+	br = branch
+[push]
+	default = simple
