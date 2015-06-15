@@ -1,0 +1,27 @@
+# Bracket Style Options
+--style=allman # Allman style uses broken brackets.
+
+# Tab Options
+--indent=spaces=4 # Indent using 4 spaces per indent.
+
+# Bracket Modify Options
+
+# Indentation Options
+--indent-namespaces # Add extra indentation to namespaces blocks.
+--indent-col1-comments # Indent C++ comments beginning in column one.
+--min-conditional-indent=0 # The lines will be aligned with the paren on the preceding line.
+
+# Padding Options
+--pad-oper # Insert space padding around operators.
+--pad-header # Insert space padding between a header (e.g. 'if', 'for', 'while'...) and the following paren.
+--unpad-paren # Remove extra space padding around parenthesis on the inside and outside.
+--align-pointer=name # Attach a pointer or reference operator (*, &, or ^) to variable name.
+
+# Formatting Options
+--add-brackets # Add brackets to unbracketed one line conditional statements (e.g. 'if', 'for', 'while'...).
+--convert-tabs # Converts tabs into spaces in the non-indentation part of the line.
+--max-code-length=80 # Break a line if the code exceeds 80 characters.
+
+# Other Options
+--lineend=windows
+
