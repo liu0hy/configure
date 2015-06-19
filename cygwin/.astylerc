@@ -23,5 +23,5 @@
 --max-code-length=80 # Break a line if the code exceeds 80 characters.
 
 # Other Options
---lineend=windows
+--lineend=linux
 
