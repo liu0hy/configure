@@ -1,0 +1,11 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.9.30
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Fri Jan 08 09:13:58 2016"
+  rime_version: 1.1.2
+
+patch:
+  "style/color_scheme": kuon
+  "style/horizontal": true
+  "style/display_tray_icon": true
