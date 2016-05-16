@@ -1,5 +1,8 @@
 [user]
-	email = liu0hy
+  user = liu0hy
+	email = liu0hy@gmail.com
+[core]
+  editor = vim
 [alias]
 	ci = commit
 	st = status
