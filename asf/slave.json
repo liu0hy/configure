@@ -1,0 +1,26 @@
+{
+  "AutoSteamSaleEvent": true,
+  "Enabled": true,
+  "IdleRefundableGames": false,
+  "PasswordFormat": 1,
+  "SteamUserPermissions": {
+    "76561198104249158": 3
+  },
+  "LootableTypes": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "MatchableTypes": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "SteamLogin": "liu6hy",
+  "SteamMasterClanID": 103582791460032435,
+  "SteamPassword": "1wzETvFcXuP2yaw9DB/jhvoiDvQmtVuS0IMB3h+5SVc="
+}

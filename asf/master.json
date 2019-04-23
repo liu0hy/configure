@@ -1,0 +1,26 @@
+{
+  "AutoSteamSaleEvent": true,
+  "CustomGamePlayedWhileIdle": "Half-life 3",
+  "Enabled": true,
+  "IdleRefundableGames": false,
+  "LootableTypes": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "MatchableTypes": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "OnlineStatus": 7,
+  "PasswordFormat": 1,
+  "TradingPreferences": 18,
+  "SteamLogin": "igokuson",
+  "SteamMasterClanID": 103582791460032435,
+  "SteamPassword": "Ju1jlTsosjpBs6Ffi4N/UbleL6MdbugJrxyzdMmoCag="
+}
