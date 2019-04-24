@@ -1,12 +1,12 @@
 [user]
-  user = liu0hy
-	email = liu0hy@gmail.com
+    name = liu0hy
+    email = liu0hy@gmail.com
 [core]
-  editor = vim
+    editor = vim
 [alias]
-	ci = commit
-	st = status
-	co = checkout
-	br = branch
+    ci = commit
+    st = status
+    co = checkout
+    br = branch
 [push]
-	default = simple
+    default = simple
