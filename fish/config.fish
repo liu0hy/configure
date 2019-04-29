@@ -3,3 +3,4 @@ export EDITOR=vim
 export FZF_DEFAULT_COMMAND='fdfind --type file --follow --hidden --exclude .git'
 
 source /usr/share/autojump/autojump.fish
+
